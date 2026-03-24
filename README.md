@@ -16,4 +16,3 @@ Cat Companion: A gamified daily quest tracker. Use the web dashboard to set your
 2. Set up backend url for data fetching (see comments in the code.py file for more explanation)
 3. Run code.py on MU Editor
 
-NOTE: our final code.py file is named updated_code.py.
