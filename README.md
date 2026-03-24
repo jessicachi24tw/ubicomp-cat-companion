@@ -14,4 +14,6 @@ Cat Companion: A gamified daily quest tracker. Use the web dashboard to set your
 1. Connect to the same phone hotspot/Wi-Fi as the computer 
    - If you are using a phone hotspot, make sure to turn on “Maximize Compatibility” in settings so the Feather can connect to it 
 2. Set up backend url for data fetching (see comments in the code.py file for more explanation)
-3. Run code.py 
+3. Run code.py on MU Editor
+
+NOTE: our final code.py file is named updated_code.py.
